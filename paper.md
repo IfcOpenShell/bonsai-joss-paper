@@ -56,6 +56,12 @@ Interesting details
 
 ## Thermal analysis
 
+# Storage
+
+## ifc+git
+
+## ifc+edgedb
+
 # Acknowledgements
 
 # References
